@@ -1,0 +1,7 @@
+Thank you for downloading the English Cyrillic keyboards!
+
+To setup your keyboard, choose the keyboard you want. (Either ansi101 or iso102)
+
+Once you enter the directory, run the setup.exe and follow the instructions.
+
+If you want to view what the keyboard looks like, open the layout.klc and change between Shift, CapsLock, or AltGr.
